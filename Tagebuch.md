@@ -18,17 +18,21 @@ Tätigkeiten für das Fach "Software Engineering"
 3) Woche 30.10 bis 5.11  
     Dienstag 31.10  
     - Praxis mit Git, da es noch Probleme damit gibt (2 Stunden)
-    - Umarbeitung der Mockups - wie können die Funktionalen Anforderungen am besten umgesetzt werden (1 Stunde)  
+    - Umarbeitung der Mockups - wie können die Funktionalen Anforderungen am besten umgesetzt werden (1 Stunde)
+      
     Mittwoch 1.11  
     - Praxis mit Git, da es noch Probleme damit gibt (1 Stunde)
-    - Einarbeitung in CSS-Files (2 Stunden)  
+    - Einarbeitung in CSS-Files (2 Stunden) 
+      
     Donnerstag 2.11  
     - Praxis mit Git, da es noch Probleme damit gibt (1 Stunde)
     - Einarbeitung in Balsamiq (ca. 10 Minuten)
-    - Erstellung der Mockups mit Balsamiq (ca 2 Stunden), da Probleme nach der Instalation aufgetreten sind  
+    - Erstellung der Mockups mit Balsamiq (ca 2 Stunden), da Probleme nach der Instalation aufgetreten sind 
+      
     Freitag 3.11.2017  
     - Gruppentreff vor dem Praktikum zur Besprechung Projekt relevanter Inhalte (ca. 2 Stunden)
-    - Erstellung einer Zusammenfassung der dritten Vorlesung (2 Stunden)   
+    - Erstellung einer Zusammenfassung der dritten Vorlesung (2 Stunden)  
+      
 4) Woche 6.11.2017 bis 12.11.2017
     Montag 6.11.2017  
     - Vertiefung der Kenntnisse in HTML und CSS (ca. 1.5 Stunden)
