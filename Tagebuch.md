@@ -14,7 +14,8 @@ Tätigkeiten für das Fach "Software Engineering"
     - Nacharbeitung der zweiten Vorlesung (2 Stunden)
     - Einarbeitung in html und Eingewöhnung mit der Entwicklungsumgebung „Netbeans“(2 Stunden)
     - Ideensammlung und erste Entwürfe für Mockups (2 Stunden)  
-3) Woche 30.10 bis 5.11
+    
+3) Woche 30.10 bis 5.11  
     Dienstag 31.10  
     - Praxis mit Git, da es noch Probleme damit gibt (2 Stunden)
     - Umarbeitung der Mockups - wie können die Funktionalen Anforderungen am besten umgesetzt werden (1 Stunde)  
