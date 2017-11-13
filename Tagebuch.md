@@ -33,18 +33,21 @@ Tätigkeiten für das Fach "Software Engineering"
     - Gruppentreff vor dem Praktikum zur Besprechung Projekt relevanter Inhalte (ca. 2 Stunden)
     - Erstellung einer Zusammenfassung der dritten Vorlesung (2 Stunden)  
       
-4) Woche 6.11.2017 bis 12.11.2017
+4) Woche 6.11.2017 bis 12.11.2017  
     Montag 6.11.2017  
     - Vertiefung der Kenntnisse in HTML und CSS (ca. 1.5 Stunden)
-    - Vertiefung der Kenntnisse mit GIT  
+    - Vertiefung der Kenntnisse mit GIT
+      
     Donnerstag 9.11.2017
     - Umwandlung der ersten Mockups ins HTML- Format (2 Stunden)  
+      
     Freitag 10.11.2017
     - Gruppentreff vor dem Praktikum zur Besprechung Projekt relevanter Inhalte (ca. 2 Stunden)
     - Erstellung einer Zusammenfassung der vierten Vorlesung (ca.1 Stunde)
+      
 
 
-5) Woche 13.11.2017 bis 19.11.2017
+5) Woche 13.11.2017 bis 19.11.2017  
     Montag 13.11.2017
     - Erstellung einer Zusammenfassung der fünften Vorlesung (2 Stunden)
     - erweiterung der Mockups im HTML-Format (ca. 2 Stunden)
