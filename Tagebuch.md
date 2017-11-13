@@ -1,10 +1,10 @@
 Tätigkeiten für das Fach "Software Engineering"
 
-1) Woche 16.10.2017 bis 22.10.2017
+1) Woche 16.10.2017 bis 22.10.2017  
     Montag 23.10.2017  
     - Nacharbeitung der ersten Vorlesung und Erstellung einer Zusammenfassung (2 Stunden)
     - Einarbeitung in "markdown" (30 Minuten)  
-2) Woche 23.10.2017 bis 29.10.2017
+2) Woche 23.10.2017 bis 29.10.2017  
     Freitag 27.10.2017  
     - Einarbeitung in die Grundlagen von Git (1 Stunde)
     - Erste Ideensammlung für das Semester-Projekt (ca. 1 Stunde)
