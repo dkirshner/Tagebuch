@@ -8,7 +8,8 @@ Tätigkeiten für das Fach "Software Engineering"
     Freitag 27.10.2017
     - Einarbeitung in die Grundlagen von Git (1 Stunde)
     - Erste Ideensammlung für das Semester-Projekt (ca. 1 Stunde)
-    - Gruppentreff vor dem Praktikum zur Besprechung Projekt relevanter Inhalte (ca. 2 Stunden)    
+    - Gruppentreff vor dem Praktikum zur Besprechung Projekt relevanter Inhalte (ca. 2 Stunden) 
+      
     Sonntag 29.10.2017  
     - Nacharbeitung der zweiten Vorlesung (2 Stunden)
     - Einarbeitung in html und Eingewöhnung mit der Entwicklungsumgebung „Netbeans“(2 Stunden)
