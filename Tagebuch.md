@@ -41,19 +41,19 @@ Tätigkeiten für das Fach "Software Engineering"
     - letzte Elemente des Browsers erstellen (Eigene Veranstalltung Erstellen) (3 Stunden)
    
    
-6) Woche 20.11.2017 bis 26.11.2017
-    - Nacharbeitung Zusammenfassung der sechsten Vorlesung(2 Stunden)
-    - Nacharbeitung Zusammenfassung der siebten Vorlesung(2 Stunden)
+6) Woche 20.11.2017 bis 26.11.2017  
+    - Nacharbeitung Zusammenfassung der sechsten Vorlesung(2 Stunden)  
+    - Nacharbeitung Zusammenfassung der siebten Vorlesung(2 Stunden)  
     - Gruppentreffen vor dem Praktikum (ca. 1,5 Stunden)
-    - Einarbeitung und Praxis mit JavaScript (erste schritte) (2 Stunden)
-    - Upgrade der Websiten (Beginn erstelung funktionaler Browser)
+    - Einarbeitung und Praxis mit JavaScript (erste schritte) (2 Stunden)  
+    - Upgrade der Websiten (Beginn erstelung funktionaler Browser)  
    
    
-7) Woche 27.11.2017 bis 3.12.2017
-    - Nacharbeitung Zusammenfassung der achten Vorlesung (2 Stunden)
-    - Gruppentreffen vor dem Praktikum (ca. 1,5 Stunden)
-    - Einbindung und auslesen Daten aus der Datenbank in Browser (ca. 1,5 Stunden)
-    - Einbindung Funktionen mit JavaScript (ca. 1,5 Stunden)
+7) Woche 27.11.2017 bis 3.12.2017  
+    - Nacharbeitung Zusammenfassung der achten Vorlesung (2 Stunden)  
+    - Gruppentreffen vor dem Praktikum (ca. 1,5 Stunden)  
+    - Einbindung und auslesen Daten aus der Datenbank in Browser (ca. 1,5 Stunden)  
+    - Einbindung Funktionen mit JavaScript (ca. 1,5 Stunden)  
     
     
 8) Woche 4.12.2017 bis 10.12.2017   
