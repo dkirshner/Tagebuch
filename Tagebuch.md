@@ -51,12 +51,16 @@ Tätigkeiten für das Fach "Software Engineering"
    
 7) Woche 27.11.2017 bis 3.12.2017  
     - Nacharbeitung Zusammenfassung der achten Vorlesung (2 Stunden)  
-    - Gruppentreffen vor dem Praktikum (ca. 1,5 Stunden)  
-    - Einbindung und auslesen Daten aus der Datenbank in Browser (ca. 1,5 Stunden)  
-    - Einbindung Funktionen mit JavaScript (ca. 1,5 Stunden)  
+    - Gruppentreffen vor dem Praktikum (ca. 1,5 Stunden) 
+    - Einbindung Funktionen mit JavaScript (ca. 1,5 Stunden)  
     
     
-8) Woche 4.12.2017 bis 10.12.2017   
+8) Woche 4.12.2017 bis 10.12.2017  
+    - 
+9) Woche 8.1.2017 bis 14.1.2017
+- Gruppentreff vor dem Praktikum (2 Stunden)
+- Fehlerbehebung (1 Stunde)
+
    
 
 
